@@ -1,11 +1,11 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm KHUN AUNG</h1>
-<h3 align="center">ANDROID DEVELOPER, FULLSTACK SOFTWARE ENGINEER</h3>
+<h3 align="center">Mobile Android Software Engineer</h3>
 
-<p align="left"> <img src="https://camo.githubusercontent.com/5a40be99b5384a02b2ea628ca7b699d350ffef54b234f5bd09639a3f761c077d/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313237322f312a5a53566d57476363317765454e6230536861775778772e676966" alt="ksmaprince" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ksmaprince&label=Profile%20views&color=0e75b6&style=flat" alt="ksmaprince" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ksmaprince" alt="ksmaprince" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/khunsma" target="blank"><img src="https://img.shields.io/twitter/follow/khunsma?logo=twitter&style=for-the-badge" alt="khunsma" /></a> </p>
 
 - 🔭 I’m currently working on [my personal projects](https://play.google.com/store/apps/developer?id=K.H+Innovation)
 
