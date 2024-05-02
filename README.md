@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksmaprince&label=Profile%20views&color=0e75b6&style=flat" alt="ksmaprince" /> </p>
 
-- 🔭 I’m currently working on [some projects](https://play.google.com/store/apps/developer?id=K.H+Innovation)
+- 🔭 I’m currently working on [my personal projects](https://play.google.com/store/apps/developer?id=K.H+Innovation)
 
 - 🌱 I’m currently pursuing my master's degree in **Computer Science**
 
@@ -15,7 +15,8 @@
 
 - 📫 How to reach me **khunaung.dev@gmail.com**
 
-- 📄 Know about my experiences [my resume](https://ksmaprince.github.io/MY-PROFILE/static/media/KHUN_AUNG_RESUME.0bfdc3855a54784f6b35.pdf)
+- 📄 Know about my experiences [my resume](https://ksmaprince.github.io/MY-PROFILE/static/media/KHUN_AUNG_RESUME.9c9a8578884d2374b20f.pdf)
+
 
 
 <br/>
