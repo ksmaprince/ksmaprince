@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **khunaung.dev@gmail.com**
 
-- 📄 Know about my experiences [my resume](https://ksmaprince.github.io/MY-PROFILE/static/media/KHUN_AUNG_RESUME.cbb8ef2781f5bc20351c.pdf)
+- 📄 Know about my experiences [my resume](https://ksmaprince.github.io/MY-PROFILE/static/media/KHUN_AUNG_RESUME.50dfc34fdb84aaf414aa.pdf)
 
 
 
@@ -26,7 +26,6 @@
 <a href="https://linkedin.com/in/khunsma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khunsma" height="30" width="40" /></a>
 <a href="https://twitter.com/khunsma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khunsma" height="30" width="40" /></a>
 <a href="https://medium.com/khunsoemoeaung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="khunsoemoeaung" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/khunaung_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khunaung_dev" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/khunsma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="petiaung50" height="30" width="40" /></a>
 </p>
 
