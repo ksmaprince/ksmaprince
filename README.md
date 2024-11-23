@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently pursuing my master's degree in **Computer Science**
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://ksmaprince.github.io/MY-PROFILE)
+- 👨‍💻 All of my projects are available at [my portfolio](https://www.khunaung.me/)
 
 - 💬 Ask me about **Android, Kotlin, Java**
 
 - 📫 How to reach me **khunaung.dev@gmail.com**
 
-- 📄 Know about my experiences [my resume](https://ksmaprince.github.io/K.AUNG/KHUN_AUNG_RESUME.pdf)
+- 📄 Know about my experiences [my resume](https://www.khunaung.me/KHUN_AUNG_RESUME.pdf)
 
 
 
