@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksmaprince&label=Profile%20views&color=0e75b6&style=flat" alt="ksmaprince" /> </p>
 
-- 🔭 I’m currently working on [my personal projects](https://play.google.com/store/apps/developer?id=K.H+Innovation)
+- 🔭 I’m currently working on [my personal projects](https://play.google.com/store/apps/dev?id=8816077677247791300)
 
 - 🌱 I’m currently pursuing my master's degree in **Computer Science**
 
