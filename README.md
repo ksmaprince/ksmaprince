@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm KHUN AUNG</h1>
 <h3 align="center">Mobile Android Software Engineer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://ksmaprince.github.io/K.AUNG/Project/CoderBoy1.webp"/>
+<p align="right" alt="Coding" width="500">
+<h3 align="left">Tech Stack</h3>
+- Mobile: Android, Kotlin, JetpackCompose, ReactNative, SwiftUI
+- Backend: SpringBoot, Express
+- Frontend: ReactJS
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksmaprince&label=Profile%20views&color=0e75b6&style=flat" alt="ksmaprince" /> </p>
 
@@ -22,7 +27,7 @@
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
+<a href="https://play.google.com/store/apps/dev?id=8816077677247791300" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Google_Play_2012-2016_icon.svg/1200px-Google_Play_2012-2016_icon.svg.png" alt="petiaung50" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/khunsma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khunsma" height="30" width="40" /></a>
 <a href="https://twitter.com/khunsma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khunsma" height="30" width="40" /></a>
 <a href="https://medium.com/khunsoemoeaung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="khunsoemoeaung" height="30" width="40" /></a>
