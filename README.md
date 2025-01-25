@@ -18,6 +18,12 @@
 
 <br/>
 <h3 align="left">Tech Stack</h3>
+- **Mobile**: Android, Kotlin, JetpackCompose, ReactNative, SwiftUI
+
+- **Backend**: SpringBoot, Express
+
+- **Frontend**: ReactJS
+
 - Mobile: Android, Kotlin, JetpackCompose, ReactNative, SwiftUI
 - Backend: SpringBoot, Express
 - Frontend: ReactJS
