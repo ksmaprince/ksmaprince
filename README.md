@@ -43,11 +43,11 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ksmaprince&show_icons=true&locale=en&layout=compact" alt="ksmaprince" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ksmaprince&show_icons=true&locale=en&layout=compact&hide_border=false&theme=radical" alt="ksmaprince" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ksmaprince&show_icons=true&locale=en" alt="ksmaprince" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ksmaprince&show_icons=true&locale=en&layout=compact&hide_border=false&theme=radical" alt="ksmaprince" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ksmaprince&" alt="ksmaprince" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ksmaprince&layout=compact&hide_border=false&theme=radical" alt="ksmaprince" /></p>
 
-<p align="left"> <a href="https://github.com/ksmaprince/"><img src="https://github-profile-trophy.vercel.app/?username=ksmaprince" alt="ksmaprince" /></a> </p>
+<p align="left"> <a href="https://github.com/ksmaprince/"><img src="https://github-profile-trophy.vercel.app/?username=ksmaprince&layout=compact&hide_border=false&theme=radical" alt="ksmaprince" /></a> </p>
 
