@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm KHUN AUNG</h1>
 <h3 align="center">Mobile Android Software Engineer</h3>
 
-<p align="right" alt="Coding" width="500">
-<h3 align="left">Tech Stack</h3>
-- Mobile: Android, Kotlin, JetpackCompose, ReactNative, SwiftUI
-- Backend: SpringBoot, Express
-- Frontend: ReactJS
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksmaprince&label=Profile%20views&color=0e75b6&style=flat" alt="ksmaprince" /> </p>
 
 - 🔭 I’m currently working on [my personal projects](https://play.google.com/store/apps/dev?id=8816077677247791300)
@@ -23,11 +16,17 @@
 - 📄 Know about my experiences [my resume](https://www.khunaung.me/KHUN_AUNG_RESUME.pdf)
 
 
+<br/>
+<h3 align="left">Tech Stack</h3>
+- Mobile: Android, Kotlin, JetpackCompose, ReactNative, SwiftUI
+- Backend: SpringBoot, Express
+- Frontend: ReactJS
+
 
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://play.google.com/store/apps/dev?id=8816077677247791300" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Google_Play_2012-2016_icon.svg/1200px-Google_Play_2012-2016_icon.svg.png" alt="petiaung50" height="30" width="40" /></a>
+<a href="https://play.google.com/store/apps/dev?id=8816077677247791300" target="blank"><img align="center" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/24ca0036-a7f1-4cca-bcf4-ced8ee79603a/d4s1i75-424ecc01-5fbf-4016-8057-d721f5c0e9d4.png" alt="petiaung50" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/khunsma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khunsma" height="30" width="40" /></a>
 <a href="https://twitter.com/khunsma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khunsma" height="30" width="40" /></a>
 <a href="https://medium.com/khunsoemoeaung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="khunsoemoeaung" height="30" width="40" /></a>
