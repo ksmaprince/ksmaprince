@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently pursuing my master's degree in **Computer Science**
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://www.khunaung.me/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://www.khunaung.me/#allProjects)
 
 - 💬 Ask me about **Android, Kotlin, Java**
 
