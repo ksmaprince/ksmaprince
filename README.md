@@ -25,6 +25,10 @@
 
 - **Frontend**: ReactJS
 
+- **Database**: MySQL, MSSQL, Postgres, MongoDB
+
+- **DevOps**: AWS, Azure
+
 
 
 <br/>
